@@ -1,2 +1,2 @@
 # Brichev2Practika
-Hello world
+Git lesson 2
