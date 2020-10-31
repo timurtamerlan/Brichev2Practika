@@ -1,2 +1,4 @@
 # Brichev2Practika
-Git lesson 2
+# Git lesson 2
+## Header
+###Content
