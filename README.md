@@ -45,7 +45,7 @@
 
 [Ссылка на репозиторий 3](Folder)
 
-![Красивый кот](https://www.meme-arsenal.com/memes/4558599e1a8d184795a2ccbb0606ed22.jpg)
+![Красивая панда](Animal1.jpg)
 
 
 ```java
